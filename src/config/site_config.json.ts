@@ -14,12 +14,12 @@ interface SiteConfig {
     nav_title: string;
     nav_items: Array<{ name: string; href: string }>;
     buttons: Array<{ name: string; href: string }>;
-    // anthology_link: string;
+    anthology_link: string;
     email_link: string;
-    // youtube_link: string;
-    // x_link: string;
+    youtube_link: string;
+    x_link: string;
     github_link: string;
-    // bluesky_link: string;
+    bluesky_link: string;
     program_events: Array<{
         start_time: string;
         end_time: string;
