@@ -1,4 +1,4 @@
-# JustNLP Website
+# JustNLP Website [https://exploration-lab.github.io/JUST-NLP/]
 
 ## Folder Structure
 
