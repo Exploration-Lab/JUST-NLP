@@ -66,9 +66,9 @@ const site_config: SiteConfig = {
     name: "JustNLP 2025",
     description: "Workshop on NLP for Empowering Justice",
     main_conf: "IJCNLP - AACL 2025",
-    main_conf_link: "https://JUST-NLP.IJCNLP - AACL.org",
+    main_conf_link: "https://2025.aaclnet.org/",
     location: "IIT Bombay, Mumbai, India",
-    date: "December 20th, 2025",
+    date: "December 24th, 2025",
     nav_title: "JustNLP",
     nav_items: [
         { name: "Call for Papers", href: "/JUST-NLP/call" },
@@ -83,7 +83,7 @@ const site_config: SiteConfig = {
         { name: "Shared Task", href: "/JUST-NLP/task" },
     ],
     // anthology_link: "https://aclanthology.org/venues/JustNLP/",
-    email_link: "mailto:JustNLP@googlegroups.com",
+    email_link: "mailto:legalaieval@gmail.com",
     // youtube_link: "https://www.youtube.com/@JustNLP",
     // x_link: "https://twitter.com/JustNLP",
     github_link: "https://github.com/JustNLP",
@@ -220,57 +220,6 @@ const site_config: SiteConfig = {
     //         link: "https://machinelearning.apple.com/",
     //     }
     // ],
-    // organizers: [
-    //     {
-    //         image_path: "/JUST-NLP/yonatan.jpg",
-    //         name: "Yonatan Belinkov",
-    //         affiliation: "Senior Lecturer, Technion",
-    //         description: "",
-    //         link: "https://belinkov.com/"
-    //     },
-    //     {
-    //         image_path: "https://aaronmueller.github.io/files/profpic_close_centered.jpeg",
-    //         name: "Aaron Mueller",
-    //         affiliation: "Assistant Professor, Boston University",
-    //         description: "",
-    //         link: "https://aaronmueller.github.io/"
-    //     },
-    //     {
-    //         image_path: "https://www.bu.edu/cs/files/2023/03/new_pic-507x600.jpg",
-    //         name: "Najoung Kim",
-    //         affiliation: "Assistant Professor, Boston University",
-    //         description: "",
-    //         link: "https://najoung.kim/"
-    //     },
-    //     {
-    //         image_path: "https://hanjiechen.github.io/photo/hanjie.jpeg",
-    //         name: "Hanjie Chen",
-    //         affiliation: "Assistant Professor, Rice University",
-    //         description: "",
-    //         link: "https://hanjiechen.github.io/"
-    //     },
-    //     {
-    //         image_path: "/JUST-NLP/hosein.jpg",
-    //         name: "Hosein Mohebbi",
-    //         affiliation: "PhD Candidate, Tilburg University",
-    //         description: "",
-    //         link: "https://hmohebbi.github.io/"
-    //     },
-    //     {
-    //         image_path: "/JUST-NLP/gabriele.jpg",
-    //         name: "Gabriele Sarti",
-    //         affiliation: "PhD Candidate, University of Groningen",
-    //         description: "",
-    //         link: "https://gsarti.com"
-    //     },
-    //     {
-    //         image_path: "/JUST-NLP/dana.jpg",
-    //         name: "Dana Arad",
-    //         affiliation: "PhD Candidate, Technion",
-    //         description: "",
-    //         link: "https://www.linkedin.com/in/dana-arad"
-    //     }
-    // ],
     organizers: [
     {
         image_path: "/JUST-NLP/Ashutosh-Modi.jpg",
@@ -278,7 +227,7 @@ const site_config: SiteConfig = {
         affiliation: "Associate Professor, Indian Institute of Technology Kanpur (IIT Kanpur), India",
         description: '',
         // description: "Specializes in Legal NLP, commonsense reasoning in LLMs, Sign Language Processing, and Multimodal Machine Learning. Area chair for ACL, NAACL, IJCAI, AAAI.",
-        link: "mailto:ashutoshm@cse.iitk.ac.in"
+        link: "https://ashutosh-modi.github.io/"
     },
     {
         image_path: "/JUST-NLP/Saptarshi-Ghosh.jpg",
@@ -286,7 +235,7 @@ const site_config: SiteConfig = {
         affiliation: "Associate Professor, Indian Institute of Technology Kharagpur (IIT Kharagpur)",
         description: '',
         // description: "Research interests include Legal NLP, AI and Sustainability, Algorithmic bias and fairness. Section Editor of Artificial Intelligence and Law journal.",
-        link: "mailto:saptarshi@cse.iitkgp.ac.in"
+        link: "https://sites.google.com/site/saptarshighosh/"
     },
     {
         image_path: "/JUST-NLP/Asif-Ekbal.jpg",
@@ -294,7 +243,7 @@ const site_config: SiteConfig = {
         affiliation: "Professor, Indian Institute of Technology Jodhpur (IIT Jodhpur)",
         description: '',
         // description: "Research interests: AI, NLP, Applied Machine Learning. Area Chair and Senior PC for top conferences, editorial board member for several journals.",
-        link: "mailto:asif@iitj.ac.in"
+        link: "https://ekbalasif.github.io/"
     },
     {
         image_path: "/JUST-NLP/Pawan-Goyal.png",
@@ -302,7 +251,7 @@ const site_config: SiteConfig = {
         affiliation: "Associate Professor, Indian Institute of Technology Kharagpur (IIT Kharagpur)",
         description: '',
         // description: "Research interests: NLP, Legal NLP, Information Retrieval, Sanskrit Computational Linguistics.",
-        link: "mailto:pawang@cse.iitkgp.ac.in"
+        link: "https://cse.iitkgp.ac.in/~pawang/"
     },
     {
         image_path: "/JUST-NLP/Sarika-Jain.png",
@@ -310,7 +259,7 @@ const site_config: SiteConfig = {
         affiliation: "National Institute of Technology Kurukshetra (NITKKR), India",
         description: '',
         // description: "Research spans Neuro Symbolic AI, Language Models, Semantic Web, and NLP. Experienced in organizing conferences and Faculty Development Programs.",
-        link: "mailto:jasarika@nitkkr.ac.in"
+        link: "https://sites.google.com/view/nitkkrsarikajain/"
     },
     {
         image_path: "/JUST-NLP/Abhinav-Joshi.png",
@@ -318,7 +267,7 @@ const site_config: SiteConfig = {
         affiliation: "Ph.D. Student, Indian Institute of Technology Kanpur (IIT Kanpur), India",
         description: '',
         // description: "Research in Natural Language Understanding (NLU), Multimodal Fusion, Sign Language processing, Legal text processing, Commonsense and Causal Reasoning.",
-        link: "mailto:ajoshi@cse.iitk.ac.in"
+        link: "https://www.cse.iitk.ac.in/users/ajoshi/"
     },
     {
         image_path: "/JUST-NLP/Shivani-Mishra.jpg",
@@ -334,7 +283,7 @@ const site_config: SiteConfig = {
         affiliation: "Ph.D. Student, Indian Institute of Technology Kharagpur (IIT Kharagpur), India",
         description: '',
         // description: "Research focuses on Legal NLP, specifically Legal Precedence and Statutes Retrieval.",
-        link: "mailto:shounakpaul95@kgpian.iitkgp.ac.in"
+        link: "https://sites.google.com/view/shounakpaul95"
     },
     {
         image_path: "/JUST-NLP/Debtanu-Datta.png",
@@ -342,10 +291,10 @@ const site_config: SiteConfig = {
         affiliation: "Ph.D. Student, Indian Institute of Technology Kharagpur (IIT Kharagpur), India",
         description: '',
         // description: "Research on Legal NLP, specifically Cross-lingual Summarization and Machine Translation in Indian Legal domain.",
-        link: "mailto:debtanumathcs@kgpian.iitkgp.ac.in"
+        link: "https://sites.google.com/view/debtanudatta/"
     },
     {
-        image_path: "",
+        image_path: "/JUST-NLP/Kshetrimayum-Boynao-Singh.jpg",
         name: "Kshetrimayum Boynao Singh",
         affiliation: "Senior Research Associate, IIT Patna; PhD Scholar, NIT Silchar",
         description: '',

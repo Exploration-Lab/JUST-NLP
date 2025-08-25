@@ -17,11 +17,17 @@ const { faq_items = [], email_link } = Astro.props as Props;
 <section class="scroll-mt-24" id="faq">
   <div class="py-12 max-w-4xl mx-auto">
     <p class="mt-5 text-black">
-      Can't find your answer? Send an <a
+      Can't find your answer? 
+      <!-- Send an <a
         class="text-blue-400 hover:text-black duration-200 transition-colors"
         href={`mailto:${email_link}`}
         >email</a
-      > and we will get back to you.
+      > and we will get back to you. OR  -->
+      Join our <a
+        class="text-blue-400 hover:text-black duration-200 transition-colors"
+        href="https://discord.gg/RmN5pZEyuk"
+        >Discord server</a
+      > to ask questions.
     </p>
     
     {faq_items.length > 0 ? (
