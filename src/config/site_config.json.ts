@@ -302,7 +302,7 @@ const site_config: SiteConfig = {
         link: "mailto:boynfrancis@gmail.com"
     },
     {
-        image_path: "",
+        image_path: "/JUST-NLP/Sandeep-Kumar.jpg",
         name: "Sandeep Kumar",
         affiliation: "Ph.D. Student, Indian Institute of Technology Patna (IIT Patna), India",
         description: '',
