@@ -307,7 +307,7 @@ const site_config: SiteConfig = {
         affiliation: "Ph.D. Student, Indian Institute of Technology Patna (IIT Patna), India",
         description: '',
         // description: "Research focuses on NLP, AI for science and AI security.",
-        link: "mailto:sandeep.kumar82945@gmail.com"
+        link: "https://sandeep82945.github.io/myprofile/"
     }
 ],
     faq_items: [
