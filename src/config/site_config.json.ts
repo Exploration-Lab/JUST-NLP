@@ -168,7 +168,16 @@ const site_config: SiteConfig = {
     //     description: 'Panel discussion on **Topic**',
     //     papers: undefined
     // }
-    invited_speakers: [],
+    invited_speakers: [
+    {
+        image_path: "https://nludelhi.ac.in/wp-content/uploads/2024/02/Image-Faculty00003.jpg",
+        name: "Prof. Niraj Kumar",
+        affiliation: "Professor, National Law University, Delhi",
+        description: '',
+        // description: "Prof. Niraj Kumar taught at the Faculty of Law, University of Delhi from August 2005 to December 2013, teaching in both the LL.B. and LL.M. programmes. He subsequently joined the National Law University, Delhi. His areas of interest include Constitutional Law, Environmental Law, and Interpretation of Statutes. He completed doctoral work on Securities Market Regulation. Prof. Kumar has presented papers at national and international conferences and has served twice on the editorial committee of the NCLJ (Law Centre-II, Faculty of Law, University of Delhi). He has delivered lectures in training programmes for IAS, IPS, DANICS, IRS, IAAS, IDAS, IDES, DJS and DHJS officers, auditors in the CAG office, NTRSS, and the BSF law training institute, for both probationers and in-service officers on topics of public law. He previously served as APIO at the Faculty of Law, University of Delhi and represented the Faculty at the Central Information Commission (CIC).",
+        link: "https://nludelhi.ac.in/faculty/dr-niraj-kumar/"
+    }
+],
     //     {
     //         image_path: "https://www.svgrepo.com/show/105517/user-icon.svg",
     //         name: "Speaker 1",
