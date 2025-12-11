@@ -71,14 +71,16 @@ const site_config: SiteConfig = {
     date: "December 24th, 2025",
     nav_title: "JustNLP",
     nav_items: [
+        { name: "Accepted Papers", href: "/JUST-NLP/accepted_papers" },
         { name: "Call for Papers", href: "/JUST-NLP/call" },
         { name: "Shared Task", href: "/JUST-NLP/task" },
         { name: "News", href: "/JUST-NLP/#news" },
-        { name: "Important Dates", href: "/JUST-NLP/#importantdates" },
+        // { name: "Important Dates", href: "/JUST-NLP/#importantdates" },
         { name: "Program", href: "/JUST-NLP/#program" },
         { name: "Organizers", href: "/JUST-NLP/#organizers" },
     ],
     buttons: [
+        { name: "Accepted Papers", href: "/JUST-NLP/accepted_papers" },
         { name: "Call for Papers", href: "/JUST-NLP/call" },
         { name: "Shared Task", href: "/JUST-NLP/task" },
     ],
