@@ -100,7 +100,7 @@ const site_config: SiteConfig = {
         {
             start_time: "09:15",
             end_time: "10:00",
-            description: "Invited talk 1: **Prof. Niraj Kumar**",
+            description: "Invited talk 1: **Prof. Niraj Kumar**\n\n*Artificiality of Law in Reference to Artificial Intelligence*",
             papers: undefined
         },
         {
@@ -121,7 +121,7 @@ const site_config: SiteConfig = {
         {
             start_time: "11:00",
             end_time: "11:45",
-            description: "Invited talk 2: **Nishi Yadav**",
+            description: "Invited talk 2: **Nishi Yadav**\n\n*Fixing the Process, Powering the System: What Jharkhand Teaches India About Legal-Tech*",
             papers: undefined
         },
         {
@@ -154,7 +154,7 @@ const site_config: SiteConfig = {
         {
             start_time: "14:45",
             end_time: "15:30",
-            description: "Invited talk 3: **Arghya Bhattacharya**",
+            description: "Invited talk 3: **Arghya Bhattacharya**\n\n*Building AI for India’s Courtrooms: Scaling Sovereign Voice & Language Systems Across 20% of the Judiciary*",
             papers: undefined
         },
         {
@@ -166,7 +166,7 @@ const site_config: SiteConfig = {
         {
             start_time: "16:00",
             end_time: "16:45",
-            description: "Invited talk 4: **Joseph Pookkatt**",
+            description: "Invited talk 4: **Joseph Pookkatt**\n\n*Designing and Implementing Knowledge Graphs in the Legal Domain*",
             papers: undefined
         },
         {
@@ -260,48 +260,48 @@ const site_config: SiteConfig = {
         image_path: "https://nludelhi.ac.in/wp-content/uploads/2024/02/Image-Faculty00003.jpg",
         name: "Prof. Niraj Kumar",
         affiliation: "Professor; Director, Centre for Comparative Law, National Law University, Delhi",
-        // description: "Title: Artificiality of Law in reference to Artificial Intelligence\n\nAbstract: Have not shared yet.\n\nBio: Prof. Niraj Kumar is a Professor of Law and Director of the Centre for Comparative Law at National Law University Delhi. His expertise includes Constitutional Law, Administrative Law, Comparative Law, Environmental Law, and Legal Theory. He previously served as Additional Registrar (Research) at the Supreme Court of India (attached to the Chief Justice of India) from January 2019 to May 2021. He has authored books including 'The Indian Legal System: An Enquiry' (Oxford, 2019) and edited volumes of the Indian Yearbook of Comparative Law (Springer).",
-        description: '',
+        description: "Title: Artificiality of Law in reference to Artificial Intelligence\n\nAbstract: Have not shared yet.\n\nBio: Prof. Niraj Kumar is a Professor of Law and Director of the Centre for Comparative Law at National Law University Delhi. His expertise includes Constitutional Law, Administrative Law, Comparative Law, Environmental Law, and Legal Theory. He previously served as Additional Registrar (Research) at the Supreme Court of India (attached to the Chief Justice of India) from January 2019 to May 2021. He has authored books including 'The Indian Legal System: An Enquiry' (Oxford, 2019) and edited volumes of the Indian Yearbook of Comparative Law (Springer).",
+        // description: "**Talk:** Artificiality of Law in Reference to Artificial Intelligence",
         link: "https://nludelhi.ac.in/faculty/dr-niraj-kumar/"
     },
     {
         image_path: "https://www.ashoka.edu.in/wp-content/uploads/2021/04/Untitled-design-89.png",
         name: "Arghya Bhattacharya",
         affiliation: "Co-Founder & CTO, Adalat AI",
-        // description: "Title: Building AI for India’s Courtrooms: Scaling Sovereign Voice & Language Systems Across 20% of the Judiciary\n\nAbstract: India hosts the world’s largest and most linguistically complex justice system. Over the last two years, Adalat AI has deployed voice and language AI in nearly 20% of Indian courtrooms, powering live transcription, dictation, translation, and document navigation at scale. This talk covers the ML stack, handling legal context across diverse tasks, and engineering sovereign, privacy-preserving AI for public institutions.\n\nBio: Arghya Bhattacharya is Co-Founder and CTO of Adalat AI. He holds a B.Tech in Computer Science and a Master's in AI from IIIT Hyderabad, with publications in ACL, EMNLP, CoNLL and EaMT. He previously worked on large-scale NLP systems and identity-verification infrastructure, and in 2025 was named to the Forbes 30 Under 30 Asia – Social Impact list for his work on accessible, rights-aligned AI for public institutions.",
-        description: '',
+        description: "Title: Building AI for India’s Courtrooms: Scaling Sovereign Voice & Language Systems Across 20% of the Judiciary\n\nAbstract: India hosts the world’s largest and most linguistically complex justice system. Over the last two years, Adalat AI has deployed voice and language AI in nearly 20% of Indian courtrooms, powering live transcription, dictation, translation, and document navigation at scale. This talk covers the ML stack, handling legal context across diverse tasks, and engineering sovereign, privacy-preserving AI for public institutions.\n\nBio: Arghya Bhattacharya is Co-Founder and CTO of Adalat AI. He holds a B.Tech in Computer Science and a Master's in AI from IIIT Hyderabad, with publications in ACL, EMNLP, CoNLL and EaMT. He previously worked on large-scale NLP systems and identity-verification infrastructure, and in 2025 was named to the Forbes 30 Under 30 Asia – Social Impact list for his work on accessible, rights-aligned AI for public institutions.",
+        // description: "**Talk:** Building AI for India’s Courtrooms: Scaling Sovereign Voice & Language Systems Across 20% of the Judiciary",
         link: "https://adalat.ai"
     },
     {
         image_path: "/JUST-NLP/Joseph-Pookkatt.png",
         name: "Joseph Pookkatt",
         affiliation: "Co-founder, Staram Analytics",
-        // description: "Title: Designing and Implementing Knowledge Graphs in the Legal Domain\n\nAbstract: Ontologies provide a common vocabulary to integrate heterogeneous legal data and enable semantic search and improved RAG (Retrieval-Augmented Generation). Knowledge Graphs (KGs) and GraphRAG capture logical relationships across semantically-distant concepts, offering higher-quality outputs than baseline RAG. In India, building a single unified KG is challenging; Staram demonstrates how smaller, use-case-specific graphs and LLM-inferred graph architectures can make KG-driven legal AI interoperable, accurate, and governable.\n\nBio: Joseph Pookkatt is a practising lawyer with 30+ years of experience at the intersection of corporate law, litigation, legal technology, AI, and entrepreneurship. He co-founded Staram Analytics and leads development of India’s first open-source legal knowledge graph.",
-        description: '',
+        description: "Title: Designing and Implementing Knowledge Graphs in the Legal Domain\n\nAbstract: Ontologies provide a common vocabulary to integrate heterogeneous legal data and enable semantic search and improved RAG (Retrieval-Augmented Generation). Knowledge Graphs (KGs) and GraphRAG capture logical relationships across semantically-distant concepts, offering higher-quality outputs than baseline RAG. In India, building a single unified KG is challenging; Staram demonstrates how smaller, use-case-specific graphs and LLM-inferred graph architectures can make KG-driven legal AI interoperable, accurate, and governable.\n\nBio: Joseph Pookkatt is a practising lawyer with 30+ years of experience at the intersection of corporate law, litigation, legal technology, AI, and entrepreneurship. He co-founded Staram Analytics and leads development of India’s first open-source legal knowledge graph.",
+        // description: "**Talk:** Designing and Implementing Knowledge Graphs in the Legal Domain (on behalf of the Staram Analytics team)",
         link: "https://www.linkedin.com/in/joseph-pookkatt-66242839"
     },
     {
         image_path: "/JUST-NLP/Sampritha-Manjunath.png",
         name: "Sampritha Manjunath",
         affiliation: "Research Associate, University of Galway",
-        // description: "Title: Designing and Implementing Knowledge Graphs in the Legal Domain\n\nAbstract: Ontologies provide a common vocabulary to integrate heterogeneous legal data and enable semantic search and improved RAG (Retrieval-Augmented Generation). Knowledge Graphs (KGs) and GraphRAG capture logical relationships across semantically-distant concepts, offering higher-quality outputs than baseline RAG. In India, building a single unified KG is challenging; Staram demonstrates how smaller, use-case-specific graphs and LLM-inferred graph architectures can make KG-driven legal AI interoperable, accurate, and governable.\n\nBio: Sampritha Manjunath is an NLP Data Scientist with 9+ years' experience in language models, knowledge graphs, RAG, and conversational AI. She is currently a Research Associate at the University of Galway, working on responsible and impactful AI systems.",
-        description: '',
+        description: "Title: Designing and Implementing Knowledge Graphs in the Legal Domain\n\nAbstract: Ontologies provide a common vocabulary to integrate heterogeneous legal data and enable semantic search and improved RAG (Retrieval-Augmented Generation). Knowledge Graphs (KGs) and GraphRAG capture logical relationships across semantically-distant concepts, offering higher-quality outputs than baseline RAG. In India, building a single unified KG is challenging; Staram demonstrates how smaller, use-case-specific graphs and LLM-inferred graph architectures can make KG-driven legal AI interoperable, accurate, and governable.\n\nBio: Sampritha Manjunath is an NLP Data Scientist with 9+ years' experience in language models, knowledge graphs, RAG, and conversational AI. She is currently a Research Associate at the University of Galway, working on responsible and impactful AI systems.",
+        // description: '',
         link: "https://www.linkedin.com/in/sampritha-manjunath"
     },
     {
         image_path: "/JUST-NLP/Parth-Parikh.png",
         name: "Parth Parikh",
         affiliation: "AI Research Engineer, eSuccess AI Technologies",
-        // description: "Title: Designing and Implementing Knowledge Graphs in the Legal Domain\n\nAbstract: Ontologies provide a common vocabulary to integrate heterogeneous legal data and enable semantic search and improved RAG (Retrieval-Augmented Generation). Knowledge Graphs (KGs) and GraphRAG capture logical relationships across semantically-distant concepts, offering higher-quality outputs than baseline RAG. In India, building a single unified KG is challenging; Staram demonstrates how smaller, use-case-specific graphs and LLM-inferred graph architectures can make KG-driven legal AI interoperable, accurate, and governable.\n\nBio: Parth Parikh is an AI Research Engineer working on legal NLP, knowledge graphs, and ontology-driven AI. He holds an M.Tech in Computer Science from IIT Bombay (2023) and focuses on structured legal representations and domain-adapted language models.",
-        description: '',
+        description: "Title: Designing and Implementing Knowledge Graphs in the Legal Domain\n\nAbstract: Ontologies provide a common vocabulary to integrate heterogeneous legal data and enable semantic search and improved RAG (Retrieval-Augmented Generation). Knowledge Graphs (KGs) and GraphRAG capture logical relationships across semantically-distant concepts, offering higher-quality outputs than baseline RAG. In India, building a single unified KG is challenging; Staram demonstrates how smaller, use-case-specific graphs and LLM-inferred graph architectures can make KG-driven legal AI interoperable, accurate, and governable.\n\nBio: Parth Parikh is an AI Research Engineer working on legal NLP, knowledge graphs, and ontology-driven AI. He holds an M.Tech in Computer Science from IIT Bombay (2023) and focuses on structured legal representations and domain-adapted language models.",
+        // description: '',
         link: "https://www.linkedin.com/in/parthparikh713"
     },
     {
         image_path: "/JUST-NLP/Nishi-Yadav.png",
         name: "Nishi Yadav",
         affiliation: "Legal-Tech & Governance Consultant; worked with Government of Jharkhand",
-        // description: "Title: Fixing the Process, Powering the System: What Jharkhand Teaches India About Legal-Tech\n\nAbstract: Jharkhand's legal-tech reforms prioritsed process redesign before digitisation, leading to significant reductions in case pendency and improved administrative workflows. This talk examines the Vidhi Portal and the Integrated Litigation Management System (ILMS) implementations, lessons for scaling digital governance, and the role of AI-enabled predictive governance to prevent litigation at source.\n\nBio: Nishi Yadav is an economist and lawyer with 11+ years PQE who has led legal-tech and governance reforms with the Government of Jharkhand, including design and implementation of ILMS. She has collaborated with IIT-Kanpur, IIT(ISM) Dhanbad and ministries on strategic governance projects.",
-        description: '',
+        description: "Title: Fixing the Process, Powering the System: What Jharkhand Teaches India About Legal-Tech\n\nAbstract: Jharkhand's legal-tech reforms prioritsed process redesign before digitisation, leading to significant reductions in case pendency and improved administrative workflows. This talk examines the Vidhi Portal and the Integrated Litigation Management System (ILMS) implementations, lessons for scaling digital governance, and the role of AI-enabled predictive governance to prevent litigation at source.\n\nBio: Nishi Yadav is an economist and lawyer with 11+ years PQE who has led legal-tech and governance reforms with the Government of Jharkhand, including design and implementation of ILMS. She has collaborated with IIT-Kanpur, IIT(ISM) Dhanbad and ministries on strategic governance projects.",
+        // description: "**Talk:** Fixing the Process, Powering the System: What Jharkhand Teaches India About Legal-Tech",
         link: "/JUST-NLP"
     }
 ],
