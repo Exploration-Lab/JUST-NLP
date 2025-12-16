@@ -145,10 +145,10 @@ const site_config: SiteConfig = {
             end_time: "14:45",
             description: "Shared tasks",
             papers: [
-                { title: "Overview of Shared Tasks", authors: "" },
-                { title: "**From Scratch to Fine-Tuned: A Comparative Study of Transformer Training Strategies for Legal Machine Translation**", authors: "" },
-                { title: "**Contextors at L-SUMM: Retriever-Driven Multi-Generator Summarization**", authors: "" },
-                { title: "**NIT-Surat@L-Sum: A Semantic Retrieval-Based Framework for Summarizing Indian Judicial Documents**", authors: "" },
+                { title: "Overview of Shared Tasks (15 mins)", authors: "" },
+                { title: "**From Scratch to Fine-Tuned: A Comparative Study of Transformer Training Strategies for Legal Machine Translation (10 mins)**", authors: "" },
+                { title: "**Contextors at L-SUMM: Retriever-Driven Multi-Generator Summarization (10 mins)**", authors: "" },
+                { title: "**NIT-Surat@L-Sum: A Semantic Retrieval-Based Framework for Summarizing Indian Judicial Documents (10 mins)**", authors: "" },
             ]
         },
         {
@@ -166,7 +166,7 @@ const site_config: SiteConfig = {
         {
             start_time: "16:00",
             end_time: "16:45",
-            description: "Invited talk 4: **Joseph Pookkatt**\n\n*Designing and Implementing Knowledge Graphs in the Legal Domain*",
+            description: "Invited talk 4: **Joseph Pookkatt, Sampritha Manjunath, Parth Parikh**\n\n*Designing and Implementing Knowledge Graphs in the Legal Domain*",
             papers: undefined
         },
         {
