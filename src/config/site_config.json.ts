@@ -84,13 +84,98 @@ const site_config: SiteConfig = {
         { name: "Call for Papers", href: "/JUST-NLP/call" },
         { name: "Shared Task", href: "/JUST-NLP/task" },
     ],
-    // anthology_link: "https://aclanthology.org/venues/JustNLP/",
+    anthology_link: "",
     email_link: "mailto:legalaieval@gmail.com",
-    // youtube_link: "https://www.youtube.com/@JustNLP",
-    // x_link: "https://twitter.com/JustNLP",
+    youtube_link: "",
+    x_link: "",
     github_link: "https://github.com/JustNLP",
-    // bluesky_link: "https://bsky.app/profile/JustNLP.bsky.social",
-    program_events: [],
+    bluesky_link: "",
+    program_events: [
+        {
+            start_time: "09:00",
+            end_time: "09:15",
+            description: "Introduction",
+            papers: undefined
+        },
+        {
+            start_time: "09:15",
+            end_time: "10:00",
+            description: "Invited talk 1: **Prof. Niraj Kumar**",
+            papers: undefined
+        },
+        {
+            start_time: "10:00",
+            end_time: "10:30",
+            description: "Paper presentations (10 mins talk + 5 mins Q&A)",
+            papers: [
+                { title: "**Grahak-Nyay: Consumer Grievance Redressal through Large Language Models**", authors: "" },
+                { title: "**Nyay-Darpan: Enhancing Decision Making Through Summarization and Case Retrieval for Consumer Law in India**", authors: "" },
+            ]
+        },
+        {
+            start_time: "10:30",
+            end_time: "11:00",
+            description: "Coffee break",
+            papers: undefined
+        },
+        {
+            start_time: "11:00",
+            end_time: "11:45",
+            description: "Invited talk 2: **Nishi Yadav**",
+            papers: undefined
+        },
+        {
+            start_time: "11:45",
+            end_time: "12:30",
+            description: "Paper presentations (10 mins talk + 5 mins Q&A)",
+            papers: [
+                { title: "**LeCNet: A Legal Citation Network Benchmark Dataset**", authors: "" },
+                { title: "**Legal Document Summarization: A Zero-shot Modular Agentic Workflow Approach**", authors: "" },
+                { title: "**LLM Driven Legal Text Analytics: A Case Study For Food Safety Violation Cases**", authors: "" },
+            ]
+        },
+        {
+            start_time: "12:30",
+            end_time: "14:00",
+            description: "Lunch",
+            papers: undefined
+        },
+        {
+            start_time: "14:00",
+            end_time: "14:45",
+            description: "Shared tasks",
+            papers: [
+                { title: "Overview of Shared Tasks", authors: "" },
+                { title: "**From Scratch to Fine-Tuned: A Comparative Study of Transformer Training Strategies for Legal Machine Translation**", authors: "" },
+                { title: "**Contextors at L-SUMM: Retriever-Driven Multi-Generator Summarization**", authors: "" },
+                { title: "**NIT-Surat@L-Sum: A Semantic Retrieval-Based Framework for Summarizing Indian Judicial Documents**", authors: "" },
+            ]
+        },
+        {
+            start_time: "14:45",
+            end_time: "15:30",
+            description: "Invited talk 3: **Arghya Bhattacharya**",
+            papers: undefined
+        },
+        {
+            start_time: "15:30",
+            end_time: "16:00",
+            description: "Coffee break",
+            papers: undefined
+        },
+        {
+            start_time: "16:00",
+            end_time: "16:45",
+            description: "Invited talk 4: **Joseph Pookkatt**",
+            papers: undefined
+        },
+        {
+            start_time: "16:45",
+            end_time: "17:00",
+            description: "Conclusion",
+            papers: undefined
+        },
+    ],
     // Example of program events
     // {
     //     "start_time": "9:00",
