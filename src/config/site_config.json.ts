@@ -265,7 +265,7 @@ const site_config: SiteConfig = {
         link: "https://nludelhi.ac.in/faculty/dr-niraj-kumar/"
     },
     {
-        image_path: "https://www.ashoka.edu.in/wp-content/uploads/2021/04/Untitled-design-89.png",
+        image_path: "/JUST-NLP/Arghya-Bhattacharya.png",
         name: "Arghya Bhattacharya",
         affiliation: "Co-Founder & CTO, Adalat AI",
         description: "Title: Building AI for India’s Courtrooms: Scaling Sovereign Voice & Language Systems Across 20% of the Judiciary\n\nAbstract: India hosts the world’s largest and most linguistically complex justice system. Over the last two years, Adalat AI has deployed voice and language AI in nearly 20% of Indian courtrooms, powering live transcription, dictation, translation, and document navigation at scale. This talk covers the ML stack, handling legal context across diverse tasks, and engineering sovereign, privacy-preserving AI for public institutions.\n\nBio: Arghya Bhattacharya is Co-Founder and CTO of Adalat AI. He holds a B.Tech in Computer Science and a Master's in AI from IIIT Hyderabad, with publications in ACL, EMNLP, CoNLL and EaMT. He previously worked on large-scale NLP systems and identity-verification infrastructure, and in 2025 was named to the Forbes 30 Under 30 Asia – Social Impact list for his work on accessible, rights-aligned AI for public institutions.",
